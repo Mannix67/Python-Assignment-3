@@ -1,4 +1,5 @@
 # Python-Assignment-3
+Loops
 2 questions
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/84920516/141844442-cdbde3a1-108c-44a3-9dff-03ea7b648a51.png)
